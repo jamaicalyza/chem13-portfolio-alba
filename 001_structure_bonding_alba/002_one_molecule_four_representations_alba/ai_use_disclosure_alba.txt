@@ -1,7 +1,0 @@
-AI Use Disclosure
-
-AI Tool Used: ChatGPT
-
-Purpose: ChatGPT was used as a learning support tool to help me better understand the instructions, concepts, and requirements of the activity. It was also used to clarify questions about molecular representations, bond-line structures, chemical notation, portfolio layout, and file organization.
-
-The information and chemical structures presented in the portfolio were checked against reliable factual sources to verify their accuracy and consistency. ChatGPT served only as a supplementary learning tool and was not the sole source of information.
