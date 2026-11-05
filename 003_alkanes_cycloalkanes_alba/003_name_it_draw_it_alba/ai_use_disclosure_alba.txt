@@ -1,0 +1,23 @@
+AI USE DISCLOSURE
+
+1. AI AND DIGITAL TOOLS USED
+
+• The Alkane: Used to generate, draw, and check chemical structures and their corresponding IUPAC names during the activity.
+• Claude AI (Anthropic): Used as the primary AI assistant to understand the activity instructions, explain IUPAC naming rules, identify parent chains and substituents, and review naming trails and molecular formulas.
+• ChatGPT (OpenAI): Used as an additional AI assistant to clarify IUPAC naming rules, explain chemical structures, and review selected answers and naming trails.
+• Canva: Used to arrange and design the activity cards and portfolio.
+• PhotoRoom Background Remover: Used to remove image backgrounds when preparing the activity cards.
+• WeCompress: Used to compress files and reduce their file sizes for submission.
+
+2. STATEMENT
+
+I used Claude AI and ChatGPT for explanations and guidance while completing this activity, with Claude AI being my primary AI assistant. Their responses served as references for understanding the naming rules and checking my work. I also used The Alkane to generate and check chemical structures and names. Canva, PhotoRoom, and WeCompress were used to prepare and organize the files for submission. I acknowledge the use of these tools in completing and preparing my activity.
+
+3. TOOLS AND RESOURCES
+
+The Alkane. (n.d.). The Alkane: IUPAC name generator [Web application]. Retrieved November 5, 2026, from https://thealkane.com/
+Anthropic. (n.d.). Claude [AI assistant]. https://claude.ai/
+OpenAI. (n.d.). ChatGPT [AI assistant]. https://chatgpt.com/
+Canva. (n.d.). Canva [Graphic design platform]. https://www.canva.com/
+PhotoRoom. (n.d.). PhotoRoom [Background removal tool]. https://www.photoroom.com/
+WeCompress. (n.d.). WeCompress [Online file compression tool]. https://www.wecompress.com/
